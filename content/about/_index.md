@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2020-07-08T21:34:01+01:00
-draft: true
+draft: false
 ---
 STEM (Science, Technology, Engineering and Mathematics) is a group of academic disciplines used to raise awareness about the lack of qualified graduates within these disciplines.
 
