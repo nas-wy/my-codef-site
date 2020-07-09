@@ -1,5 +1,5 @@
 title = "STEM"
-baseURL = "https://example.com"
+baseURL = "https://epic-visvesvaraya-9e4179.netlify.app"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
@@ -37,4 +37,4 @@ enableRobotsTXT = true
   recent_posts_number = 2
   
 
-  [markup]
+  
